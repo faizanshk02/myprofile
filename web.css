@@ -1,0 +1,108 @@
+.right-align{
+    text-align: right;
+    text-size:large;
+    
+}
+body{
+    background-color: rgb(65, 159, 190);
+}
+
+
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.hobby{
+    width:30%    
+}
+
+.image img{
+    width:50%
+}
+
+.des{
+    font-size: large;
+    font-weight: bolder;
+}
+
+p{
+    background-color: rgb(162, 101, 85);
+    text-align: center;
+}
+
+.image2 img{
+    height: 30%;
+    width: 50%;
+}
+
+.title2{
+    font-size: large;
+}
+
+a{
+    text-decoration: none;
+}
+
+.myabout {
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    color:indigo;
+    padding-top: 1%;
+    text-wrap:balance;
+    
+}
+
+.hobby {
+    align-items: center;
+    display: flex;
+}
+
+.box{
+    height: 210px;
+    width: 200px;
+    background-color:rgb(118, 185, 88);
+    float: left;
+    margin: 5%;
+    overflow: scroll;
+    font-size: large;
+}
+.box2{
+    height: 210px;
+    width: 200px;
+    background-color:rgb(118, 185, 88);
+    float: left;
+    margin: 5%;
+    overflow: scroll;
+    font-size: large;
+}
+
+.box3{
+    height: 210px;
+    width: 200px;
+    background-color:rgb(118, 185, 88);
+    float: left;
+    margin: 5%;
+    overflow: scroll;
+    font-size: large;
+}
+
+.line{
+   margin: 0px;
+   padding: 0px;
+}
+
+.line {
+    text-align: center;
+}
+
+header{
+    height:30px ;
+    background-color:rgb(118, 185, 88);
+}
+
+.location{
+    clear: both;
+}
